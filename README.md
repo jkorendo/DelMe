@@ -1,0 +1,2 @@
+# DelMe
+Repo na szkolenie
